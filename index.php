@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Привет, <font color=gold>Congratulations!</font></h1>
-		<p>This project was deployed by Borsoev Roman from Github by github-webhook</p>
+		<p>This project was deployed by Borsoev Roman from Github by github-webhook!</p>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
